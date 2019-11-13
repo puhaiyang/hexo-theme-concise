@@ -1,0 +1,52 @@
+# Header
+menu:
+  首页: /
+#  前端: /categories/front-end
+#  后端: /categories/back-end
+  标签: /tags
+#  归档: /archives
+  微博: https://weibo.com/u/5372185611
+#  订阅: /atom.xml
+  文章: https://blog.csdn.net/puhaiyang
+  关于: /about
+
+# Content
+excerpt_link: 阅读更多
+content_max_width: 800px
+
+# Sidebar
+author:
+  name: puhaiyang
+  work: Java Developer &amp; programmer
+  location: Chengdu, China
+  avatar_url: /images/avatar.jpg
+
+# Links:
+links:
+  - svg: ./source/svg/csdn.svg
+    url: https://blog.csdn.net/puhaiyang
+  - svg: ./source/svg/github.svg
+    url: https://github.com/puhaiyang
+  - svg: ./source/svg/weibo.svg
+    url: https://weibo.com/u/5372185611
+
+
+# github comment 
+git_commit:
+  enable: true
+  client_id: 67af40a3954dfcb73e48
+  client_secret: 9abc17340873a8e75ae4213b6e7764a8da03282d
+  repo: puhaiyang.github.io
+  owner: puhaiyang
+  admin:
+    - puhaiyang
+  per_page: 10
+
+
+# 百度统计
+baidu:
+  id: e4027971a230b210f4671f485b33846a
+
+# Miscellaneous
+rss: /atom.xml
+favicon: /images/favicon.ico
